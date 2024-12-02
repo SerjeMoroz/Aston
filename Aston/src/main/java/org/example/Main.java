@@ -148,7 +148,6 @@ public class Main {
             System.out.println();
         }
 
-
         int[] createdArray = createArray(5, 7);
         for (int i : createdArray) {
             System.out.print(i + " ");
